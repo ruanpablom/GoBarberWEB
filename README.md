@@ -1,4 +1,4 @@
-## Projeto desenvolvida em React durante o bootcamp da RocketSeat.
+## Projeto desenvolvido em React durante o bootcamp da RocketSeat.
 
 ## Available Scripts
 
